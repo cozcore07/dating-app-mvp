@@ -1,4 +1,5 @@
-💕 Hybrid Dating Platform MVP
+**💕 Hybrid Dating Platform MVP**
+
 A modern, scalable web and mobile dating app with premium matchmaking concierge features. Built with React/Next.js, React Native/Flutter, Node.js (NestJS), PostgreSQL & MongoDB.
 
 🔧 Features
